@@ -1,6 +1,6 @@
 # WebOtomasyonSelenium
 
-## src.test.java.com.akif.test <br> src.test.java.com.akif.selenium
+## Proje sınıfları: <br> src.test.java.com.akif.test <br> src.test.java.com.akif.selenium
 
  [www.n11.com](https://www.n11.com/) sitesi açılır.<br>
 **- Ana sayfanın açıldığı kontrol edilir. Siteye login olunur.** <br>
