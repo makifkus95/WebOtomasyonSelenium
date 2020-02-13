@@ -10,6 +10,6 @@
 **- 2.sayfanın açıldığı kontrol edilir.** <br>
 **- Sonuca göre sergilenen ürünlerden rastgele bir ürün seçilir.** <br>
 **- Seçilen ürün sepete eklenir.** <br>
-**- Ürün†sayfasındaki fiyat ile sepette yer alan ürün fiyatının doğruluğu karşılaştırılır.** <br>
+**- Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyatının doğruluğu karşılaştırılır.** <br>
 **- Adet arttırılarak ürün adedinin 2 olduğu doğrulanır.** <br>
 **- Ürün sepetten silinerek sepetin boş olduğu kontrol edilir.** <br>
