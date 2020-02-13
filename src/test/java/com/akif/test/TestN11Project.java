@@ -29,7 +29,7 @@ public class TestN11Project {
         /* Ana sayfanın açıldığı kontrol edilir. Siteye login olunur. */
         LoginPage loginPage = new LoginPage(driver);
         loginPage.setEmail("m.akif.kus95@gmail.com");
-        loginPage.setPass("xxxxxx");
+        loginPage.setPass("xxxxxxxx");
         loginPage.loginN11();
         /* kullanıcı ismi ile Login işlemi kontrol edilir. */
         Assert.assertEquals(loginPage.loginControl(),"mehmet akif kuş");
